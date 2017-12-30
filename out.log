@@ -1,0 +1,9 @@
+2017-12-30 19:40:29 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2017-12-30 19:40:29 INFO  ApacheHttpClient.login(209) - Ожидание ответа сервера.
+2017-12-30 19:40:30 INFO  ApacheHttpClient.login(213) - responseCode200
+2017-12-30 19:40:30 INFO  ApacheHttpClient.login(244) - JSESSIONID=74F3F7EF62790E56C043F5B111CB06C6
+2017-12-30 19:40:30 INFO  ApacheHttpClient.refreshUserInfo(272) - responseCode = 200
+2017-12-30 19:40:30 INFO  ApacheHttpClient.refreshUserInfo(278) - Информация о пользователе получена.
+2017-12-30 19:40:30 INFO  ApacheHttpClient.startGA(32) - GAService запущен.
+2017-12-30 19:40:30 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
